@@ -1,4 +1,4 @@
-## Hi there, I'm Gary 👋
+## Hi there, I'm Gary 👨🏻‍💻
 
 <!--
 **garydavisonos/garydavisonos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
