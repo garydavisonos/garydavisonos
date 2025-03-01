@@ -16,6 +16,8 @@ const gary = {
   cms: ["WordPress", "Drupal", "Contentful"],
   gitEnabled: true,
   nodeEnabled: true,
+  svnEnabled: false,
+  learning: ["Python"]
 }
 
 ```
