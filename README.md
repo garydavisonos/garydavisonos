@@ -8,15 +8,13 @@ Technical Lead at Soak in Norwich, UK.
 const gary = {
   firstName: "Gary",
   lastName: "Davison",
-  experience: "18 years",
-  location: "Norwich, UK",
+  yearsOfExperience: 18,
+  city: "Norwich",
+  country: "UK",
   languages: ["JavaScript", "TypeScript", "PHP", "HTML", "CSS"],
-  libraries: ["React"],
-  frameworks: ["Next.js"],
-  cms: ["WordPress", "Drupal", "Contentful"],
-  gitEnabled: true,
-  nodeEnabled: true,
-  svnEnabled: false,
+  technologies: ["React", "Next.js"],
+  cmsPlatforms: ["WordPress", "Drupal", "Contentful"],
+  tools: ["Docker", "Node.js", "Git", "npm", "Webpack"],
   learning: ["Python"]
 }
 
